@@ -1,0 +1,10 @@
+{
+  "product": "RedOS",
+  "version": "12.0.0",
+  "channel": "stable",
+  "minimumRedOSVersion": "11.0.0",
+  "releaseDate": "2026-11-14",
+  "releaseNotes": "Pierwszy pakiet wydania RedOS 12. Uzupełnij opis zmian przed publikacją.",
+  "updateType": "resources",
+  "archive": "RedOS12_Update.zip"
+}
