@@ -4,7 +4,7 @@
   "channel": "stable",
   "minimumRedOSVersion": "11.0.0",
   "releaseDate": "2026-11-14",
-  "releaseNotes": "Pierwszy pakiet wydania RedOS 12."
+  "releaseNotes": "Pierwszy pakiet wydania RedOS 12.",
   "updateType": "resources",
   "archive": "RedOS12_Update.zip"
 }
